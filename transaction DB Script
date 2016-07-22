@@ -1,0 +1,31 @@
+create database test1;
+use test1;
+create table EmployeeX
+(
+ ID int NOT NULL,
+ NAME varchar(50) NOT NULL,
+ AGE int NOT Null,
+ PRIMARY KEY (ID)
+);
+
+create database test2;
+use test2;
+create table EmployeeY
+(
+ ID int NOT NULL,
+ NAME varchar(50) NOT NULL,
+ AGE int NOT Null,
+ PRIMARY KEY (ID)
+);
+
+create database test3;
+use test3;
+create table EmployeeX
+(
+ ID int NOT NULL,
+ NAME varchar(50) NOT NULL,
+ AGE int NOT Null,
+ PRIMARY KEY (ID)
+);
+
+	
